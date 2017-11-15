@@ -121,7 +121,7 @@ function getGreeting(name) {
 
 // #22
 // If you can't remember these area formulas then head over to Google or look at the test code.
- 
+
 function getRectangleArea(length, width) {
   var area = length * width;
   return area;
